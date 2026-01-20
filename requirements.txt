@@ -2,3 +2,9 @@ streamlit
 pytesseract
 Pillow
 gtts
+img2pdf
+pypdf
+opencv-python-headless
+numpy
+pyzbar
+qrcode
